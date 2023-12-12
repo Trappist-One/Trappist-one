@@ -75,11 +75,13 @@ Here are some ideas to get you started:
 
 <div>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 66.7 kB Used in GitHub's Storage 
+> 📦 66.8 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2023
  > 
@@ -89,6 +91,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+🌆 Daytime                40 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                44 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌙 Night                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Tuesday                  11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Friday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Saturday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Sunday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               6 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  6 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+siuuukz-blog             6 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  6 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,6 +142,6 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/12/2023 18:39:31 UTC
+ Last Updated on 12/12/2023 18:37:34 UTC
 <!--END_SECTION:waka-->
 </div>
