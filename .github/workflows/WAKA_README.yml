@@ -16,3 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 时间线
           SHOW_LOC_CHART: False
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
