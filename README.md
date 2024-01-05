@@ -144,4 +144,10 @@ JavaScript               1 repo              ████░░░░░░░�
 
  Last Updated on 04/01/2024 18:38:58 UTC
 <!--END_SECTION:waka-->
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
